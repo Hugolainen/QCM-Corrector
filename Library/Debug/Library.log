@@ -1,0 +1,14 @@
+﻿D:\Softwares\Visual Studio Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Le répertoire Output ne se termine pas par une barre oblique finale. Cette instance de build ajoutera une barre oblique, comme requis, pour permettre l'évaluation correcte du répertoire Output.
+  LLD_Connection.cpp
+  QCM.cpp
+c:\users\hugoc\documents\000_ecole\fisa2\projetinfo\projetinfo_v2.2\source\qcm.cpp(207): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+  ImageNdg.cpp
+c:\users\hugoc\documents\000_ecole\fisa2\projetinfo\projetinfo_v2.2\source\imagendg.cpp(567): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+c:\users\hugoc\documents\000_ecole\fisa2\projetinfo\projetinfo_v2.2\source\imagendg.cpp(571): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+  ImageDouble.cpp
+  ImageCouleur.cpp
+  ImageClasse.cpp
+  Génération de code en cours...
+     Création de la bibliothèque C:\Users\hugoc\Documents\000_Ecole\FISA2\ProjetInfo\ProjetInfo_V2.2\\ProjetInfo_IHM1\bin\Debug\LibraryImage.lib et de l'objet C:\Users\hugoc\Documents\000_Ecole\FISA2\ProjetInfo\ProjetInfo_V2.2\\ProjetInfo_IHM1\bin\Debug\LibraryImage.exp
+  Library.vcxproj -> C:\Users\hugoc\Documents\000_Ecole\FISA2\ProjetInfo\ProjetInfo_V2.2\\ProjetInfo_IHM1\bin\Debug\LibraryImage.dll
+  Library.vcxproj -> C:\Users\hugoc\Documents\000_Ecole\FISA2\ProjetInfo\ProjetInfo_V2.2\\ProjetInfo_IHM1\bin\Debug\LibraryImage.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+C:\Users\hugoc\Desktop\ProjetInfo_V1.0_snapshot\ProjetInfo_IHM1\obj\Release\ProjetInfo_IHM1.Form1.resources
+C:\Users\hugoc\Desktop\ProjetInfo_V1.0_snapshot\ProjetInfo_IHM1\obj\Release\ProjetInfo_IHM1.Properties.Resources.resources
+C:\Users\hugoc\Desktop\ProjetInfo_V1.0_snapshot\ProjetInfo_IHM1\obj\Release\ProjetInfo_IHM1.csproj.GenerateResource.Cache
+C:\Users\hugoc\Desktop\ProjetInfo_V1.0_snapshot\ProjetInfo_IHM1\obj\Release\ProjetInfo_IHM1.csproj.CoreCompileInputs.cache
